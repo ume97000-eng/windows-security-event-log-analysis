@@ -27,16 +27,5 @@ This event records the creation of a new user account on the system. Monitoring 
 - Privilege Escalation Detection
 - Cybersecurity Fundamentals
 
-## Screenshots
-
-### Event ID 4624 - Successful Logon
-![4624 Logon Event](screenshots/4624.png)
-
-### Event ID 4672 - Special Privileges Assigned
-![4672 Privilege Event](screenshots/4672.png)
-
-### Event ID 4720 - User Account Created
-![4720 Account Creation Event](screenshots/4720.png)
-
 ## Conclusion
 The analysis of Windows Security Logs provides valuable insights into authentication activities, account management events, and privileged access operations. These logs are essential for security monitoring and incident investigation.
